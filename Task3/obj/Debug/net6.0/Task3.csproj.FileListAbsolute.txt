@@ -1,0 +1,15 @@
+G:\Омӯзиш\HomeworkSeminar5\Task3\bin\Debug\net6.0\Task3.exe
+G:\Омӯзиш\HomeworkSeminar5\Task3\bin\Debug\net6.0\Task3.deps.json
+G:\Омӯзиш\HomeworkSeminar5\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+G:\Омӯзиш\HomeworkSeminar5\Task3\bin\Debug\net6.0\Task3.dll
+G:\Омӯзиш\HomeworkSeminar5\Task3\bin\Debug\net6.0\Task3.pdb
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.dll
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\refint\Task3.dll
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.pdb
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+G:\Омӯзиш\HomeworkSeminar5\Task3\obj\Debug\net6.0\ref\Task3.dll
